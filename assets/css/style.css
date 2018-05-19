@@ -114,15 +114,12 @@ h2 {
     margin-top: 90px;
     margin-bottom: 90px;
     width: 960px;
-    padding: 20px;
+    padding: 30px;
     background: white;
     height: auto;
     box-sizing: border-box;
     overflow: hidden;
-}
-
-p:nth-child(1){
-    text-indent: 40px;
+    border: 1px solid #ddd;
 }
 
 .port-pic {
